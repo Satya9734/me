@@ -114,7 +114,7 @@ h2 {
 
 #typing {
   display: inline-block;
-  min-width: 280px;
+  min-width: 10px;
   border-right: 2px solid #fff;
   white-space: nowrap;
   overflow: hidden;
@@ -388,3 +388,4 @@ footer {
     font-size: 22px;
   }
 }
+
